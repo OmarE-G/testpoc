@@ -1,3 +1,73 @@
+  
+
 {
- "test":"test-text2",
-  "a":"b"}
+    "code": 0,
+    "data": {
+       "assignee_id": 1904499862307,
+        "canComment": 1,
+        "createTime": null,
+        "created": "2024-10-27 03:05:34",
+        "created_at": "2024-10-26T19:05:34Z",
+        "id": 6292346,
+        "lastAcitity": "2024-10-27 20:08:49",
+        "status": "solved <h1>a</h1>",
+        "subject": "<h1>a</h1>",
+        "updated_at": "2024-10-27T12:08:49Z",
+        "commentList": [
+            {
+                "attachments": [],
+                "author_id": null,
+                "body": "",
+                "creatTime": "",
+                "created_at": "",
+                "htmlBody": "",
+                "id": null,
+                "plain_body": "",
+                "via": null
+            },
+            {
+                "attachments": [],
+                "author_id": 31388194081677,
+                "body": "bodyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+                "creatTime": "2024-10-27 03:05:34",
+                "created_at": "2024-10-26T19:05:34Z",
+                "htmlBody": "<div class=\"zd-comment\" dir=\"auto\"><p dir=\"auto\">BOT: 👋 Hello, عمر عصام احمد عثمان جادو\n<br>BOT: Please choose the language you prefer to continue </p>\n\n<p dir=\"auto\">USER: Selected: English</p>\n\n<p dir=\"auto\">BOT: Please select one of the common topics below, or ask me a short question.</p>\n\n<p dir=\"auto\">USER: SUPPORT TICKET</p>\n\n<p dir=\"auto\">BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n<br>BOT: <a href=\"https://www.okx.com/support-center/history\" target=\"_blank\" rel=\"nofollow noreferrer\">https://www.okx.com/support-center/history</a></p>\n\n<p dir=\"auto\">USER: CREATE A NEW TICKET</p>\n\n<p dir=\"auto\">BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n<br>BOT: <a href=\"https://www.okx.com/support-center/history\" target=\"_blank\" rel=\"nofollow noreferrer\">https://www.okx.com/support-center/history</a></p>\n\n<p dir=\"auto\">USER: customer support</p>\n\n<p dir=\"auto\">BOT: Please try to ask questions one more time 😊 or select a topic below:</p>\n\n<p dir=\"auto\">USER: Ask something else</p>\n\n<p dir=\"auto\">BOT: Got it! Please share with me your inquiry. I would do my best to help you.</p>\n\n<p dir=\"auto\">USER: I need  to talk to a human</p>\n\n<p dir=\"auto\">BOT: Below are the top 10 popular topics you might be interested in, please see if they are of any help 😇</p>\n\n<p dir=\"auto\">USER: I want to reset/remove authenticator app</p>\n\n<p dir=\"auto\">BOT: ❗️Note: To secure your assets, you won’t be able to withdraw any funds within 24 hours after changing your authenticator app.\n<br>BOT: You can now edit Authenticator app through our self-service portal in minutes!\n<br>BOT: </p>\n\n<p dir=\"auto\">USER: Create a ticket</p>\n\n<p dir=\"auto\">BOT: To resolve your inquiry, we will get one of our customer service specialists to look into it. Let's submit a ticket for further assistance 😃\n<br>BOT: Before that, have you submitted a ticket previously for the same issue?</p>\n\n<p dir=\"auto\">USER: Selected: No</p>\n\n<p dir=\"auto\">SUMMARY: CREATE A NEW TICKET. I need  to talk to a human.</p></div>",
+                "id": 31388168593549,
+                "plain_body": "plainnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+                "via": {
+                    "channel": "api"
+                }
+            },
+            {
+                "attachments": [],
+                "author_id": 31388194081677,
+                "body": "hello\n\n\n&amp;lt;A&amp;gt;asdfd&amp;lt;/a&amp;gt;",
+                "creatTime": "2024-10-27 03:06:56",
+                "created_at": "2024-10-26T19:06:56Z",
+                "htmlBody": "<div class=\"zd-comment\" dir=\"auto\"><p dir=\"auto\">hello</p>\n\n<p dir=\"auto\">&amp;amp;lt;A&amp;amp;gt;asdfd&amp;amp;lt;/a&amp;amp;gt;</p></div>",
+                "id": 31388211533197,
+                "plain_body": "hello \n\n &amp;amp;lt;A&amp;amp;gt;asdfd&amp;amp;lt;/a&amp;amp;gt;",
+                "via": {
+                    "channel": "api"
+                }
+            },
+            {
+                "attachments": [],
+                "author_id": 31388194081677,
+                "body": "&amp;lt;h1&amp;gt;",
+                "creatTime": "2024-10-27 05:16:50",
+                "created_at": "2024-10-26T21:16:50Z",
+                "htmlBody": "<div class=\"zd-comment\" dir=\"auto\"><p dir=\"auto\">&amp;amp;lt;h1&amp;amp;gt;</p></div>",
+                "id": 31390006832781,
+                "plain_body": "&amp;amp;lt;h1&amp;amp;gt;",
+                "via": {
+                    "channel": "api"
+                }
+            }
+        ]
+    },
+    "detailMsg": "",
+    "error_code": "0",
+    "error_message": "",
+    "msg": ""
+}
