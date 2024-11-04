@@ -1,18 +1,9 @@
-  
+
 
 {
     "code": 0,
     "data": {
-       "assignee_id": 1904499862307,
         "canComment": 1,
-        "createTime": null,
-        "created": "2024-10-27 03:05:34",
-        "created_at": "2024-10-26T19:05:34Z",
-        "id": 6292346,
-        "lastAcitity": "2024-10-27 20:08:49",
-        "status": "solved <h1>a</h1>",
-        "subject": "<h1>a</h1>",
-        "updated_at": "2024-10-27T12:08:49Z",
         "commentList": [
             {
                 "attachments": [],
@@ -28,12 +19,12 @@
             {
                 "attachments": [],
                 "author_id": 31388194081677,
-                "body": "bodyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+                "body": "BOT: 👋 Hello, عمر عصام احمد عثمان جادو\r\nBOT: Please choose the language you prefer to continue \r\n\r\nUSER: Selected: English\r\n\r\nBOT: Please select one of the common topics below, or ask me a short question.\r\n\r\nUSER: SUPPORT TICKET\r\n\r\nBOT: You may check your ticket status by logging in with your registered OKX email/phone.\r\nBOT: https://www.okx.com/support-center/history\r\n\r\nUSER: CREATE A NEW TICKET\r\n\r\nBOT: You may check your ticket status by logging in with your registered OKX email/phone.\r\nBOT: https://www.okx.com/support-center/history\r\n\r\nUSER: customer support\r\n\r\nBOT: Please try to ask questions one more time 😊 or select a topic below:\r\n\r\nUSER: Ask something else\r\n\r\nBOT: Got it! Please share with me your inquiry. I would do my best to help you.\r\n\r\nUSER: I need  to talk to a human\r\n\r\nBOT: Below are the top 10 popular topics you might be interested in, please see if they are of any help 😇\n\r\n\r\nUSER: I want to reset/remove authenticator app\r\n\r\nBOT: ❗️Note: To secure your assets, you won’t be able to withdraw any funds within 24 hours after changing your authenticator app.\r\nBOT: You can now edit Authenticator app through our self-service portal in minutes!\r\nBOT: \r\n\r\nUSER: Create a ticket\r\n\r\nBOT: To resolve your inquiry, we will get one of our customer service specialists to look into it. Let's submit a ticket for further assistance 😃\r\nBOT: Before that, have you submitted a ticket previously for the same issue?\r\n\r\nUSER: Selected: No\r\n\r\n\r\nSUMMARY: CREATE A NEW TICKET. I need  to talk to a human.",
                 "creatTime": "2024-10-27 03:05:34",
                 "created_at": "2024-10-26T19:05:34Z",
                 "htmlBody": "<div class=\"zd-comment\" dir=\"auto\"><p dir=\"auto\">BOT: 👋 Hello, عمر عصام احمد عثمان جادو\n<br>BOT: Please choose the language you prefer to continue </p>\n\n<p dir=\"auto\">USER: Selected: English</p>\n\n<p dir=\"auto\">BOT: Please select one of the common topics below, or ask me a short question.</p>\n\n<p dir=\"auto\">USER: SUPPORT TICKET</p>\n\n<p dir=\"auto\">BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n<br>BOT: <a href=\"https://www.okx.com/support-center/history\" target=\"_blank\" rel=\"nofollow noreferrer\">https://www.okx.com/support-center/history</a></p>\n\n<p dir=\"auto\">USER: CREATE A NEW TICKET</p>\n\n<p dir=\"auto\">BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n<br>BOT: <a href=\"https://www.okx.com/support-center/history\" target=\"_blank\" rel=\"nofollow noreferrer\">https://www.okx.com/support-center/history</a></p>\n\n<p dir=\"auto\">USER: customer support</p>\n\n<p dir=\"auto\">BOT: Please try to ask questions one more time 😊 or select a topic below:</p>\n\n<p dir=\"auto\">USER: Ask something else</p>\n\n<p dir=\"auto\">BOT: Got it! Please share with me your inquiry. I would do my best to help you.</p>\n\n<p dir=\"auto\">USER: I need  to talk to a human</p>\n\n<p dir=\"auto\">BOT: Below are the top 10 popular topics you might be interested in, please see if they are of any help 😇</p>\n\n<p dir=\"auto\">USER: I want to reset/remove authenticator app</p>\n\n<p dir=\"auto\">BOT: ❗️Note: To secure your assets, you won’t be able to withdraw any funds within 24 hours after changing your authenticator app.\n<br>BOT: You can now edit Authenticator app through our self-service portal in minutes!\n<br>BOT: </p>\n\n<p dir=\"auto\">USER: Create a ticket</p>\n\n<p dir=\"auto\">BOT: To resolve your inquiry, we will get one of our customer service specialists to look into it. Let's submit a ticket for further assistance 😃\n<br>BOT: Before that, have you submitted a ticket previously for the same issue?</p>\n\n<p dir=\"auto\">USER: Selected: No</p>\n\n<p dir=\"auto\">SUMMARY: CREATE A NEW TICKET. I need  to talk to a human.</p></div>",
                 "id": 31388168593549,
-                "plain_body": "plainnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+                "plain_body": "BOT: 👋 Hello, عمر عصام احمد عثمان جادو\n\nBOT: Please choose the language you prefer to continue  \n\n USER: Selected: English \n\n BOT: Please select one of the common topics below, or ask me a short question. \n\n USER: SUPPORT TICKET \n\n BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n\nBOT: https://www.okx.com/support-center/history \n\n USER: CREATE A NEW TICKET \n\n BOT: You may check your ticket status by logging in with your registered OKX email/phone.\n\nBOT: https://www.okx.com/support-center/history \n\n USER: customer support \n\n BOT: Please try to ask questions one more time 😊 or select a topic below: \n\n USER: Ask something else \n\n BOT: Got it! Please share with me your inquiry. I would do my best to help you. \n\n USER: I need  to talk to a human \n\n BOT: Below are the top 10 popular topics you might be interested in, please see if they are of any help 😇 \n\n USER: I want to reset/remove authenticator app \n\n BOT: ❗️Note: To secure your assets, you won’t be able to withdraw any funds within 24 hours after changing your authenticator app.\n\nBOT: You can now edit Authenticator app through our self-service portal in minutes!\n\nBOT:  \n\n USER: Create a ticket \n\n BOT: To resolve your inquiry, we will get one of our customer service specialists to look into it. Let's submit a ticket for further assistance 😃\n\nBOT: Before that, have you submitted a ticket previously for the same issue? \n\n USER: Selected: No \n\n SUMMARY: CREATE A NEW TICKET. I need  to talk to a human.",
                 "via": {
                     "channel": "api"
                 }
